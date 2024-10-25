@@ -1,8 +1,6 @@
 {
   "urls":[
-    {
-      "name":"自用","url":"https://ghproxy.cn/https://raw.githubusercontent.com/PureiyaZhang/MyBox/refs/heads/main/json/自用.json",
-      "name":"only-sex","url":"https://ghproxy.cn/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-only-sex.json"
-    }
+    {"name":"自用","url":"https://ghproxy.cn/https://raw.githubusercontent.com/PureiyaZhang/MyBox/refs/heads/main/json/自用.json"},
+    {"name":"only-sex","url":"https://ghproxy.cn/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-only-sex.json"}
   ]
 }
